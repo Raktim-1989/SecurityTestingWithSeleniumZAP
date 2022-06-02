@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-05-12T20:54:29 IST" name="Default suite" finished-at="2022-05-12T20:55:09 IST" duration-ms="39576">
+    <groups>
+    </groups>
+    <test started-at="2022-05-12T20:54:29 IST" name="Default test" finished-at="2022-05-12T20:55:09 IST" duration-ms="39576">
+      <class name="ZAPSecurity.Selenium.ZAPSecurityTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:ZAPSecurity.Selenium.ZAPSecurityTest@16ec5519]" started-at="2022-05-12T20:54:29 IST" name="setUp" finished-at="2022-05-12T20:54:43 IST" duration-ms="14095" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="amazonSecurityTest()[pri:0, instance:ZAPSecurity.Selenium.ZAPSecurityTest@16ec5519]" started-at="2022-05-12T20:54:43 IST" name="amazonSecurityTest" finished-at="2022-05-12T20:55:03 IST" duration-ms="20198" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- amazonSecurityTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:ZAPSecurity.Selenium.ZAPSecurityTest@16ec5519]" started-at="2022-05-12T20:55:03 IST" name="tearDown" finished-at="2022-05-12T20:55:09 IST" duration-ms="5175" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- ZAPSecurity.Selenium.ZAPSecurityTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
